@@ -1,0 +1,18 @@
+.feedbackButton {
+  padding: 5px;
+  margin: 5px;
+  width: 60px;
+  height: 30px;
+  align-content: center;
+  font-weight: 700;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 5px;
+  &:hover,
+  :focus {
+    box-shadow: 5px 5px 12px 0px rgba(197, 193, 193, 0.75);
+  }
+}
+.feedbackWrapper {
+  margin-left: 10px;
+}
