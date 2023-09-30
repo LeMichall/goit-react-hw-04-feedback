@@ -9,7 +9,7 @@
   background-color: white;
   border-radius: 5px;
   &:hover,
-  :focus {
+  &:focus {
     box-shadow: 5px 5px 12px 0px rgba(197, 193, 193, 0.75);
   }
 }
